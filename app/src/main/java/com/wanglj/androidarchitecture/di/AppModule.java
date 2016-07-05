@@ -1,4 +1,4 @@
-package com.wanglj.androidarchitecture.di.module;
+package com.wanglj.androidarchitecture.di;
 
 import android.app.Application;
 

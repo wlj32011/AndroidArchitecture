@@ -1,7 +1,5 @@
-package com.wanglj.androidarchitecture.di.component;
+package com.wanglj.androidarchitecture.di;
 
-import com.wanglj.androidarchitecture.di.module.ApiModule;
-import com.wanglj.androidarchitecture.di.module.AppModule;
 import com.wanglj.androidarchitecture.module.login.LoginComponent;
 import com.wanglj.androidarchitecture.module.login.LoginModule;
 

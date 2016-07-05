@@ -1,12 +1,11 @@
 package com.wanglj.androidarchitecture;
 
-import android.app.Activity;
 import android.app.Application;
 import android.content.Context;
 
-import com.wanglj.androidarchitecture.di.component.AppComponent;
+import com.wanglj.androidarchitecture.di.AppComponent;
 import com.wanglj.androidarchitecture.di.component.DaggerAppComponent;
-import com.wanglj.androidarchitecture.di.module.AppModule;
+import com.wanglj.androidarchitecture.di.AppModule;
 
 /**
  * Created by wanglj on 16/7/4.
